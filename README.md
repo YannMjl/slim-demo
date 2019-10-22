@@ -22,6 +22,7 @@ composer start
 ```
 
 Or you can use `docker-compose` to run the app with `docker`, so you can run these commands:
+
 ```bash
 cd [my-app-name]
 docker-compose up -d
